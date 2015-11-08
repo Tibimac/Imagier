@@ -1,6 +1,8 @@
 # Imagier
 Exercice "Imagier" de la semaine 4 du MOOC "Programmation iPhone et iPad". Réalisation : 25 mai 2014
 
+[![Imagier](http://img.youtube.com/vi/Oq_OirSEXp4/0.jpg)](http://www.youtube.com/watch?v=T-D1KVIuvjA "Imagier")
+
 - ARC désactivé.
 - Structure MVC.
 - Pas de storyboard.
